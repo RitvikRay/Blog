@@ -39,6 +39,7 @@
     text-decoration: none;
     display: inline-block;
     border-radius: 20px;
+    margin-bottom:10px;
   }
   
   .b:hover, .b:active {
