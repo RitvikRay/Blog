@@ -1,0 +1,52 @@
+#contact iframe
+{
+    width: 100%;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:orange;
+}
+.bg-primary {
+    background-color: orange;
+}
+.books:link, .books:visited {
+    background-color: teal;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+  }
+  
+  .books:hover, .books:active {
+    background-color: red;
+  }
+  .b:link, .b:visited {
+    background-color: teal;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+  }
+  
+  .b:hover, .b:active {
+    background-color: red;
+  }
+  .book{
+    margin-bottom: 20px;
+  }
+  #i{
+    width: 100%;
+  }
